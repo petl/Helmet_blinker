@@ -4,30 +4,30 @@ Long story short: I made a rechargeable drop in replacement for the original lig
 
 <p>If you're interested in this project, take a look at the <a href='https://quiescentcurrent.com/blog/post.php?p_id=67'>blog</a> or just write a message or leave a comment. If you want to buy one, </p>
 <br><br><br /><br />
-<p align="right"><img src='https://github.com/petl/Helmet_blinker/tree/main/PhotosIMG_20210405_172732_small.jpg' width='100%'>
+<p align="right"><img src='https://github.com/petl/Helmet_blinker/blob/main/Photos/IMG_20210405_172732_small.jpg' width='100%'>
 <br>The original light on the left, the new one on the right.</p>  <br /><br /><br /><br /><p>
 
 
 <h2> Schematics </h2> </p><br />
 There probably is a reason why the original light was not rechargeable and it's most certainly money. The most complex part for the PCB was the charging solution around the TP4056 IC. The LiPo is fully protected: over- and undervoltage, temperature limit and short circuit. There is not a lot that can go wrong anymore with the battery which is a reassuring since it is worn near your head. <br><br>
 Besides this, the most interesting area is around the ATTiny10 microcontroller. It get programmed via a programming header which I made myself out of some pogo pins. It can detect the push button being pressed and then run some funky blinking on the six red LEDs. <br><br>
-<p align="right"><img src='https://github.com/petl/Helmet_blinker/tree/main/Photos/schematics_HB.png' width='100%'>
+<p align="right"><img src='https://github.com/petl/Helmet_blinker/blob/main/Photos/schematics_HB.png' width='100%'>
 <br>Schematics for v0.2.</p> 
 
 <h2> Hardware </h2> </p><br /><br />
 <p>The hardware assembly was mostly done by jlcpcb (unfortunately not a sponsor). I only had to do the battery and USB connector. The connector itself is a 90° micro USB which snugs in perfectly next to the battery and rubber protector. A great amount of measuring wnet into the correct positioning of the 6 red LEDs bedind the plastic reflector. This worked out surplrisingly well as the can be individually seen in the top photo. </p>
 
 
-<p align="right"><img src='https://github.com/petl/Helmet_blinker/tree/main/Photos/IMG_20210405_173916_scaled.jpg' width='100%'>
+<p align="right"><img src='https://github.com/petl/Helmet_blinker/blob/main/Photos/IMG_20210405_173916_scaled.jpg' width='100%'>
 <br>Backside of the light while charging</p> 
 
 Since there are always at least 5 PCBs assembled, I got to take a nice shot of them. If you want one for yourself, just shoot me a mail, they are v0.1 though. <br><br>
-<p align="right"><img src='https://github.com/petl/Helmet_blinker/tree/main/Photos/4032-3024-max_scaled.jpg' width='100%'>
+<p align="right"><img src='https://github.com/petl/Helmet_blinker/blob/main/Photos/4032-3024-max_scaled.jpg' width='100%'>
 <br>PCBs to make more lights. </p> 
 
 There are two more LEDs on the PCB, they are charging indicators and are directly switched by the TP4056.
 
-<p align="right"><img src='https://github.com/petl/Helmet_blinker/tree/main/Photos/4.jpg' width='100%'>
+<p align="right"><img src='https://github.com/petl/Helmet_blinker/blob/main/Photos/4.jpg' width='100%'>
 <br>Charging indicators for the LiPo cell.</p> 
  <br><br /><br /><br /><br />
 
@@ -40,7 +40,7 @@ There are two more LEDs on the PCB, they are charging indicators and are directl
   <li>4: 3% on, 1000ms period</li>
 </ul> <br>
  </p>
-<p align="right"><img src='https://github.com/petl/Helmet_blinker/tree/main/Photos/code_example_HB.png' width='100%'>
+<p align="right"><img src='https://github.com/petl/Helmet_blinker/blob/main/Photos/code_example_HB.png' width='100%'>
 <br>Screenshow of the code: <a href='https://github.com/petl/Helmet_blinker'>source</a>  .</p> 
 
  <br><br /><br /><br /><br />
