@@ -1,4 +1,4 @@
-                <p><h2> Motivation</h2> </p><br />
+<p><h2> Motivation</h2> </p><br />
 Last year I got a new helmet to make cycling for myself a bit safer. The helmet is an ABUS Hyban 2.0 in a stylish color with an integrated LED backlight, which helps others see me at night. Unfortunately the original light is powered by a single CR2032 coin cell, which not only limits its runtime severely, but also is not rechargeable. There even is a <a href=\'https://www.youtube.com/watch?v=HbjWTI32BtE\'>video</a> on how to change the coin cell. This itself is just how ABUS makes products, but what really dumbfounded me were the misaligned LEDs. They just light straight into the rubber part of the light and only some scattered light can be seen from outside. Interestingly enough, the light made it to version 6 as the photo below shows \"ACHV_V06\". <br><br>
 Long story short: I made a rechargeable drop in replacement for the original light. <br><br>
 
