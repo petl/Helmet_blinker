@@ -2,7 +2,7 @@
 Last year I got a new helmet to make cycling for myself a bit safer. The helmet is an ABUS Hyban 2.0 in a stylish color with an integrated LED backlight, which helps others see me at night. Unfortunately the original light is powered by a single CR2032 coin cell, which not only limits its runtime severely, but also is not rechargeable. There even is a <a href='https://www.youtube.com/watch?v=HbjWTI32BtE'>video</a> on how to change the coin cell. This itself is just how ABUS makes products, but what really dumbfounded me were the misaligned LEDs. They just light straight into the rubber part of the light and only some scattered light can be seen from outside. Interestingly enough, the light made it to version 6 as the photo below shows "ACHV_V06". <br><br>
 Long story short: I made a rechargeable drop in replacement for the original light. <br><br>
 
-<p>If you're interested in this project, take a look at the <a href='https://quiescentcurrent.com/blog/post.php?p_id=67'>blog</a> or just write a message or leave a comment. If you want to buy one, </p>
+<p>If you're interested in this project, take a look at the <a href='https://quiescentcurrent.com/blog/post.php?p_id=67'>blog</a> or just write a message or leave a comment. If you want to buy one, here's the tindie link: <a href='https://www.tindie.com/products/petl/rechargeable-led-bicycle-helmet-light/'>Rechargeable LED bicycle helmet light</a>   </p>
 <br><br><br /><br />
 <p align="right"><img src='https://github.com/petl/Helmet_blinker/blob/main/Photos/IMG_20210405_172732_small.jpg' width='100%'>
 <br>The original light on the left, the new one on the right.</p>  <br /><br /><br /><br /><p>
